@@ -39,7 +39,7 @@ Happy hunting !
 
 ### Recon Validation 
 
-- [ ]confirm reachable host   
+- [ ] confirm reachable host   
 - [ ] identify entry points  
 - [ ] Map application structure 
 
@@ -75,44 +75,44 @@ Happy hunting !
 - [ ]  Identify user roles
 - [ ]  Perform Web Application Fingerprinting
 - [ ]  Check for differences in content based on User Agent (eg, Mobile sites, access as a Search engine Crawler)
-- [ ]Check the caches of major search engines for publicly accessible sites
-- [ ] Check for files that expose content, such as robots.txt, sitemap.xml, .DS_Store
-- [ ] Spider/crawl for missed or hidden content
+- [ ]  Check the caches of major search engines for publicly accessible sites
+- [ ]  Check for files that expose content, such as robots.txt, sitemap.xml, .DS_Store
+- [ ]  Spider/crawl for missed or hidden content
 
 ### <a name="Authentication Review">Authentication Review</a>
 
 - [ ] Test for user enumeration
-- [ ]Test for authentication bypass
-- [ ]Test for brute force protection
-- [ ]Test password quality rules
-- [ ]Test remember me functionality
-- [ ]Test for autocomplete on password forms/input
-- [ ]Test password reset and/or recovery
-- [ ]Test password change process
-- [ ]Test CAPTCHA
-- [ ]Test multi factor authentication
-- [ ]Test for logout functionality presence
-- [ ]Test for cache management on HTTP (eg Pragma, Expires, Max-age)
-- [ ]Test for default logins
-- [ ]Test for user-accessible authentication history
-- [ ]Test for put-off channel notification of account lockouts and successful password changes
+- [ ] Test for authentication bypass
+- [ ] Test for brute force protection
+- [ ] Test password quality rules
+- [ ] Test remember me functionality
+- [ ] Test for autocomplete on password forms/input
+- [ ] Test password reset and/or recovery
+- [ ] Test password change process
+- [ ] Test CAPTCHA
+- [ ] Test multi factor authentication
+- [ ] Test for logout functionality presence
+- [ ] Test for cache management on HTTP (eg Pragma, Expires, Max-age)
+- [ ] Test for default logins
+- [ ] Test for user-accessible authentication history
+- [ ] Test for put-off channel notification of account lockouts and successful password changes
 
   
 ### <a name="Session Review">Session Review</a>
 
 - [ ] Establish how session management is handled in the application (eg, tokens in cookies, token in URL)
-- [ ]Check session tokens for cookie flags (http Only and secure)
-- [ ]Check session cookie scope (path and domain)
-- [ ]Check session cookie duration (expires and max-age)
-- [ ]Check session termination after a maximum lifetime
-- [ ]Check session termination after relative timeout
-- [ ]Check session termination after logout
-- [ ]Test to see if users can have multiple simultaneous sessions
-- [ ]Test session cookies for randomness
-- [ ]Confirm that new session tokens are issued on login, role change and logout
-- [ ]Test for consistent session management across applications with shared session management
-- [ ]Test for session puzzling
-- [ ]Test for CSRF and clickjacking
+- [ ] Check session tokens for cookie flags (http Only and secure)
+- [ ] Check session cookie scope (path and domain)
+- [ ] Check session cookie duration (expires and max-age)
+- [ ] Check session termination after a maximum lifetime
+- [ ] Check session termination after relative timeout
+- [ ] Check session termination after logout
+- [ ] Test to see if users can have multiple simultaneous sessions
+- [ ] Test session cookies for randomness
+- [ ] Confirm that new session tokens are issued on login, role change and logout
+- [ ] Test for consistent session management across applications with shared session management
+- [ ] Test for session puzzling
+- [ ] Test for CSRF and clickjacking
 
 
 ### <a name="Authorization Review">Authorization Review</a>
