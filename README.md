@@ -5,17 +5,17 @@ Happy hunting !
 
 ## Table of Contents
 
-* [Scope & Rule](#"Scope & Rule")
-* [Recon & Assets Discovery](#Recon & Assets Discovery)
-* [Endpoint Enumeration](#Endpoint Enumeration)
+* [Scope & Rule](#"Scope--Rule")
+* [Recon & Assets Discovery](#Recon--Assets-Discovery)
+* [Endpoint Enumeration](#Endpoint-Enumeration)
 * [Information Gathering](#Information)
 * [Authentication Review](#Authentication)
 * [Session Review](#Session)
 * [Authorization Review](#Authorization)
-* [Input & Validation Review](#Validation Review)
+* [Input & Validation Review](# input--Validation-Review)
 * [Business Logic Review](#Business)
 * [Upload & API ](#)
-* [Client Side Review](#Client Side)
+* [Client Side Review](#Client-Side-Review)
 * [Reporting & Notes](#Reporting)
 
 
