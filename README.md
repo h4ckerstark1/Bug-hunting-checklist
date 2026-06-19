@@ -12,9 +12,9 @@ Happy hunting !
 * [Authentication Review](#Authentication)
 * [Session Review](#Session)
 * [Authorization Review](#Authorization)
-* [Input & Validation Review](# input--Validation-Review)
+* [Input & Validation Review](#input--Validation-Review)
 * [Business Logic Review](#Business)
-* [Upload & API ](#)
+* [Upload & API ](#API)
 * [Client Side Review](#Client-Side-Review)
 * [Reporting & Notes](#Reporting)
 
